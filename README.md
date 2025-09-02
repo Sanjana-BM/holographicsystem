@@ -20,6 +20,7 @@ Just open `index.html` in your browser, allow camera access, and explore!
 ## 🔧 How to Run
 1. Clone or download this repo  
    ```bash
+   https://github.com/Sanjana-BM/holographicsystem.git
    
 2. Open index.html in Chrome/Edge/Firefox
 
